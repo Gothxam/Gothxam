@@ -33,10 +33,19 @@
 
 ---
 
+## 🏅 Achievements  
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Gothxam&badge=star" alt="Achievement Badge" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Gothxam&badge=committer" alt="Committer Badge" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Gothxam&badge=pull-request" alt="Pull Request Badge" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=Gothxam&badge=developer" alt="Developer Badge" />
+</p>
+
+---
+
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gothxam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gothxam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Gothxam)
 
 ---
 
