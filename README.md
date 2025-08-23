@@ -1,50 +1,36 @@
-# Hi there 👋, I'm Gautam Kohli  
+# Hi there 👋
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Full-Stack Web Development (MERN)**  
-- 🌱 I’m learning **Cloud Platforms (AWS, Render, Vercel)** and **Advanced React**  
-- 👯 I’m looking to collaborate on **Open Source Projects & Hackathons**  
-- 🤝 I’m looking for help with **Backend Optimization & Deployment Workflows**  
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, Git/GitHub**  
-- ⚡ Fun fact: *I enjoy solving bugs more than creating features — it feels like detective work!*  
+## 🚀 About Me
+- 🌱 I’m currently learning **React, JavaScript, and Open Source Contribution**
+- 💻 I love contributing to open source projects
+- 🎯 Goal: Becoming a skilled Frontend Developer
+- ⚡ Fun fact: I debug more than I code 😅
 
 ---
 
-### 🛠️ Languages & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode,vercel,aws" />
-</p>
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
-### 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GautamKohli&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamKohli&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GautamKohli&theme=radical&margin-w=10&margin-h=10&row=1" />
-</p>
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
 ---
 
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamKohli&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff69b4&style=for-the-badge)
 
 ---
 
-### 🌐 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
