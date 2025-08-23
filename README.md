@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gautam (aka Gothxam)
+# 👋 Hi, I'm Gautam 
 
 🚀 Passionate **Frontend Developer** | 💻 Learning **React & JavaScript** | 🎯 Exploring **DSA & Fullstack Development**
 
